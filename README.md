@@ -1,6 +1,8 @@
 RSAGA
 =====
 
+Please note that **RSAGA** development has moved to https://github.com/r-spatial/RSAGA.
+
 RSAGA Package Code and [Vignette](https://cran.r-project.org/web/packages/RSAGA/vignettes/RSAGA-landslides.pdf)
 
 Currently updated to RSAGA 0.94-5, available on CRAN
